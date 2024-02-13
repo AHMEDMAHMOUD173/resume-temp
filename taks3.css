@@ -1,0 +1,48 @@
+.base{
+
+width: 520px;
+height: 145;
+}
+
+body{
+    background-image: url("../federico-di-dio-photography-Q4g0Q-eVVEg-unsplash.jpg");
+}
+.base-color{
+width: 60px;
+
+}
+
+.Nav{
+        width: 500PX;
+        height: 132vh;
+    background-color: white;
+    font-size: x-large  ;
+    font-weight: bold;
+    padding: 1.5em;
+    border-radius: 8px;
+    margin-left : 500PX;
+}
+
+
+input{
+    width: 490px;
+    height: 40px;
+}
+.Nav-gender input
+{
+  width: 100px;
+    height: 19px;
+}
+.Nav-Name{
+text-align: center;
+font-size: xx-large;
+
+}
+.Nav-button{
+width: 100px;
+color: rgb(255, 255, 255);
+background-color: rgb(15, 111, 171);
+margin-left: 175px;
+font-weight: bold;
+font-size: x-large;
+}
